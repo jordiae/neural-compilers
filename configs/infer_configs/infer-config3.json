@@ -1,0 +1,8 @@
+{
+  "c_path": "synthesis-eval/examples",
+  "model_path": "experiments/AnghaBench-supervised-2021-05-09-1331-1ad3533bfc9df19cc9bff3ba72487765-3840-f78f",
+  "beam": 5,
+  "top_n": 5,
+  "add_header_footer": false,
+  "replace_true_false": false
+}

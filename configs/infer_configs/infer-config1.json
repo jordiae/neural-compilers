@@ -1,0 +1,8 @@
+{
+  "c_path": "",
+  "model_path": "",
+  "beam": 1,
+  "top_n": 1,
+  "add_header_footer": true,
+  "replace_true_false": true
+}
