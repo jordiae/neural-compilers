@@ -1,0 +1,16 @@
+{
+  "tokenizer_config": {
+    "tokenizer_type": "pygments",
+    "subword_tokenizer": "subword-nmt",
+    "subword_vocab_size":  16384,
+    "shared_vocab": true
+  },
+  "input_path": "AnghaBench",
+  "output_path": "experiments",
+  "min_tokens": 16,
+  "max_tokens": 314,
+  "supervised": true,
+  "valid_test_size": 1000,
+  "seed": 42,
+  "just_func": true
+}

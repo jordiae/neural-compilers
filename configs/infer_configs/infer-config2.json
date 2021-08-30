@@ -1,0 +1,8 @@
+{
+  "c_path": "examples_",
+  "model_path": "baseline4",
+  "beam": 1,
+  "top_n": 1,
+  "add_header_footer": false,
+  "replace_true_false": false
+}

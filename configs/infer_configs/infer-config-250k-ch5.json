@@ -1,0 +1,9 @@
+{
+  "c_path": "synthesis-eval/examples",
+  "model_path": "output/AnghaBench-supervised-2021-07-24-0506-4df2227e3af912140f3c3cdb37f8dcb6-a767-3294",
+  "beam": 5,
+  "top_n": 5,
+  "add_header_footer": false,
+  "replace_true_false": false,
+  "checkpoint_path":"model250k/checkpoints/checkpoint5.pt"
+}
