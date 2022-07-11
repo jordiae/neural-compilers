@@ -33,7 +33,6 @@ Code for building a neural compiler (a Transformer that learns to translate C to
           --max-tokens 4096 \
           --eval-bleu \
           --eval-bleu-args '{"beam": 5, "max_len_a": 1.2, "max_len_b": 10}' \
-          --eval-bleu-detok moses \
           --eval-bleu-remove-bpe \
           --eval-bleu-print-samples \
           --best-checkpoint-metric bleu --maximize-best-checkpoint-metric --tensorboard-logdir $RUN/tb \
